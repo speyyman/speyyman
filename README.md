@@ -15,8 +15,8 @@ Independent software and data engineer in Nashville. I build small, careful tool
 
 ## Writing and film
 
-- [Four rules and a fern](https://speyyman.github.io/writing/four-rules-and-a-fern/), [An inbox that sorts itself](https://speyyman.github.io/writing/an-inbox-that-sorts-itself/), [Where the forecast failed](https://speyyman.github.io/writing/where-the-forecast-failed/)
-- [Sound, made visible](https://speyyman.github.io/media/sound-made-visible/) and [Engravings, drawn live](https://speyyman.github.io/media/engravings-drawn-live/)
+- [Four rules and a fern](https://speyyman.github.io/work/plate/#essay), [An inbox that sorts itself](https://speyyman.github.io/work/second-brain-os/#essay), [Where the forecast failed](https://speyyman.github.io/work/solar-yield-forecast/#essay)
+- [Sound, made visible](https://speyyman.github.io/work/sound-made-visible/#film) and [Engravings, drawn live](https://speyyman.github.io/work/plate/#film)
 
 ## Contact
 
